@@ -401,7 +401,7 @@ export const SOCIAL_LINKS = [
     href: "https://www.linkedin.com/in/vedpatil15",
     devicon: "devicon-linkedin-plain colored",
   },
-  { icon: "🐦", label: "Twitter", href: "#", devicon: null },
+  { icon: "🐦", label: "Twitter", href: "https://x.com/wwasssuppppp", devicon: null },
   {
     icon: "📧",
     label: "Email",
