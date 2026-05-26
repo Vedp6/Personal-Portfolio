@@ -369,8 +369,8 @@ export const PROJECTS = [
     icon: "♥️",
     color: "#a78bfa",
     glow: "rgba(167,139,250,.15)",
-    github: "#",
-    live: "#",
+    github: "#https://github.com/Vedp6/Personal-Portfolio",
+    live: "#https://personal-portfolio-five-chi-32.vercel.app/",
   },
   {
     title: "Weather-App",
